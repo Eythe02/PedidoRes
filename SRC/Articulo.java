@@ -1,4 +1,4 @@
-package SRC;
+
 public class Articulo {
 
     private String nombre;
